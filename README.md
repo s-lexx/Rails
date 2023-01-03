@@ -1,2 +1,2 @@
 # Rails
-Практика по ruby on Rails.
+# My learning Ruby on Rails.  
