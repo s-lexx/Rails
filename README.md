@@ -1,2 +1,2 @@
 # Rails
-Практика по ruby on Rails разбитая по урокам.
+# My first Rails applicatiion.
